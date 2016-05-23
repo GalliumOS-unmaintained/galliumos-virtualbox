@@ -1,0 +1,14 @@
+GalliumOS 2.x for VirtualBox Changelog
+https://coltondrg.com/galliumos-virtualbox/
+https://galliumos.org/
+
+  Please note: You don't have to download a fresh VirtualBox package every
+time. Simply running GalliumOS Update is enough in most cases. If updating your
+packages doesn't fix your problem, then try downloading the latest version of
+GalliumOS for VirtualBox.
+
+Current version: 20160523
+
+20160523: Initial release of GalliumOS 2.x for VirtualBox
+
+20160522: Initial test of GalliumOS 2.x for VirtualBox

@@ -1,0 +1,33 @@
+  This machine automatically logs into the default user. That said, you will
+probably want root access or to know the password for some other reason. The
+default login is listed below.
+
+    Username: galliumos
+    Password: galliumos
+
+  You can change the password at any time by simply running `passwd` and
+following the prompts.
+
+  An OpenSSH daemon is also included. You can remotely log into this machine's
+command line (if it's running) by entering the following command on any other
+Linux or Unix-like system on the network with OpenSSH installed. This may vary
+slightly or not work at all depending on your network configuration.
+
+    ssh galliumos@galliumos-vm
+
+  The root account is locked by default. You are expected to run administrative
+commands via sudo as you would on any Ubuntu or GalliumOS system. If you wish
+to unlock the root account for some reason, simply run the following command.
+
+    sudo passwd -u root
+
+  After unlocking the root account, the login is very simple.
+
+    Username: root
+    Password: galliumos
+
+  You can change the password for the root account at any time by simply
+running `passwd` as root and following the prompts.
+
+  Anything else regarding users and groups should be self-explanitory if you
+know your way around a Linux box.
