@@ -1,3 +1,8 @@
+galliumos-virtualbox (20160525) xenon; urgency=medium
+
+  * Fixed a Debian packaging error
+
+  -- Colton DRG <coltondrg@coltondrg.com> Tue, 24 May 2016 10:45 -0700
 galliumos-virtualbox (20160524) xenon; urgency=medium
 
   * Release release. (At long last)

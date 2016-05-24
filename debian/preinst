@@ -1,0 +1,3 @@
+#!/bin/sh
+rm /boot/loader/loader.conf
+rm /boot/loader/entries/*.conf

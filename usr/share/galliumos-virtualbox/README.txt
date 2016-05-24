@@ -1,5 +1,5 @@
 GalliumOS 2.x for VirtualBox
-Release 20160524
+Release 20160525
 https://coltondrg.com/galliumos-virtualbox/
 https://galliumos.org/
 Support IRC: #galliumos on freenode.net (ping ColtonDRG)
