@@ -10,6 +10,6 @@ Architecture: all
 Priority: required
 Depends: galliumos-base, linux-image-4.4.0-22-generic, linux-headers-4.4.0-22-generic, linux-image-extra-4.4.0-22-generic
 Provides: galliumos-device
-Conflicts: galliumos-haswell, galliumos-device-c710, galliumos-broadwell, galliumos-sandy, galliumos-sandy
+Conflicts: galliumos-haswell, galliumos-device-c710, galliumos-broadwell, galliumos-sandy
 Description: Documentation and configuration for VirtualBox
  This package contains documentation and configuration files for GalliumOS for VirtualBox

@@ -7,8 +7,10 @@ time. Simply running GalliumOS Update is enough in most cases. If updating your
 packages doesn't fix your problem, then try downloading the latest version of
 GalliumOS for VirtualBox.
 
-Current version: 20160523
+Current version: 20160524
 
-20160523: Initial release of GalliumOS 2.x for VirtualBox
+20160524: First honest to goodness release of GalliumOS 2.x for VirtualBox
+
+20160523: Initial pre-release of GalliumOS 2.x for VirtualBox
 
 20160522: Initial test of GalliumOS 2.x for VirtualBox

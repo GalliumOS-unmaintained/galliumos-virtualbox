@@ -1,3 +1,8 @@
+galliumos-virtualbox (20160524) xenon; urgency=medium
+
+  * Release release. (At long last)
+
+  -- Colton DRG <coltondrg@coltondrg.com> Mon, 23 May 2016 22:37 -0700
 galliumos-virtualbox (20160523) xenon; urgency=medium
 
   * Initial release
