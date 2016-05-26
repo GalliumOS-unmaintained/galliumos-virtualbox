@@ -1,3 +1,8 @@
+galliumos-virtualbox (20160526) xenon; urgency=medium
+
+  * VMware support
+
+  -- Colton DRG <coltondrg@coltondrg.com> Wed, 25 May 2016 22:15 -0700
 galliumos-virtualbox (20160525) xenon; urgency=medium
 
   * Fixed a Debian packaging error
