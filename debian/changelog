@@ -1,3 +1,8 @@
+galliumos-virtualbox (20160527) xenon; urgency=medium
+
+  * More VMware support
+
+  -- Colton DRG <coltondrg@coltondrg.com> Thu, 26 May 2016 19:25 -0700
 galliumos-virtualbox (20160526) xenon; urgency=medium
 
   * VMware support

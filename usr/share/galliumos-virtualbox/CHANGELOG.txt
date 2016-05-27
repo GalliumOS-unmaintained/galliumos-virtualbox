@@ -1,4 +1,4 @@
-GalliumOS 2.x for VirtualBox Changelog
+GalliumOS 2.x for VirtualBox & VMware Changelog
 https://coltondrg.com/galliumos-virtualbox/
 https://galliumos.org/
 
@@ -7,7 +7,9 @@ time. Simply running GalliumOS Update is enough in most cases. If updating your
 packages doesn't fix your problem, then try downloading the latest version of
 GalliumOS for VirtualBox.
 
-Current version: 20160526
+Current version: 20160527
+
+20160527: More VMware support (VirtualBox users not affected)
 
 20160526: VMware support (VirtualBox users are not affected)
 

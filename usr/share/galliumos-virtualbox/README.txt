@@ -1,5 +1,5 @@
 GalliumOS 2.x for VirtualBox & VMware
-Release 20160526
+Release 20160527
 https://coltondrg.com/galliumos-virtualbox/
 https://galliumos.org/
 Support IRC: #galliumos on freenode.net (ping ColtonDRG)
@@ -32,6 +32,12 @@ problem with Xfce that I don't know how to fix. If you want to take a crack at
 fixing it and let me know how you did it so I can fix it in a future release,
 be my guest. I was unable to reproduce this issue on VMware, so if you must
 have multiple CPU cores, use the VMware version.
+
+!!! WARNING !!!
+  Don't set this machine to compatibility level 12 in VMware. Compatibility
+levels 10 and 11 work fine, but level 12 causes an issue. You shouldn't need
+level 12 for any reason, as the only thing it enables over 11 is higher DirectX
+support, which doesn't work in Linux anyway.
 
   One last thing. Be wary of the following packages
     - galliumos-laptop
